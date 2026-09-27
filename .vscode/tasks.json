@@ -12,7 +12,11 @@
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
+<<<<<<< HEAD
                 "cwd": "${fileDirname}"
+=======
+                "cwd": "C:\\msys64\\ucrt64\\bin"
+>>>>>>> c356776 (initial commit)
             },
             "problemMatcher": [
                 "$gcc"
